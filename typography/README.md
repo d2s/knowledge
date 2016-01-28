@@ -4,15 +4,24 @@
 
 ## Wikipedia articles about typography
 
-- [Typography](https://en.wikipedia.org/wiki/Typography)
-- [Word divider](https://en.wikipedia.org/wiki/Word_divider)
 - Commonly used symbols
   - [Dash](https://en.wikipedia.org/wiki/Dash)
+    - _Em dash_ —
+    - _En dash_ –
+    - _Swung dash_ ⁓
   - [Quotation mark](https://en.wikipedia.org/wiki/Quotation_mark)
     - [Quotation marks in English](https://en.wikipedia.org/wiki/Quotation_mark#Quotation_marks_in_English)
+      - ‘…’
+      - “…”
     - [Quotation marks in Finnish and Swedish](https://en.wikipedia.org/wiki/Quotation_mark#Finnish_and_Swedish)
+      - ’A’
+      - ”A”
+      - »A»
+      - – A
     - [Summary table for all languages](https://en.wikipedia.org/wiki/Quotation_mark#Summary_table_for_all_languages)
   - [Whitespace character](https://en.wikipedia.org/wiki/Whitespace_character)
+- [Typography](https://en.wikipedia.org/wiki/Typography)
+- [Word divider](https://en.wikipedia.org/wiki/Word_divider)
 
 
 ## Blogs about typography
