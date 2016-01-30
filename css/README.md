@@ -36,6 +36,8 @@ Good way to learn is to watch & read presentations.
 - [AllThingsSmitty/must-watch-css](https://github.com/AllThingsSmitty/must-watch-css)
   - _A useful list of must-watch talks about CSS_
   - _This is a collection of well-received talks about CSS, covering topics such as CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more._
+- [@mdo-ular CSS](https://speakerdeck.com/mdo/at-mdo-ular-css) by Mark Otto
+  - _“Ten guidelines for how and why I write CSS the way I do with practical examples.”_
 
 
 
