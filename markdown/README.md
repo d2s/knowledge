@@ -18,3 +18,9 @@ _Markdown is an easy-to-read, easy-to-write syntax for formatting plain text._
       - _Share samples of code with fenced code blocks and enabling syntax highlighting._
     - [Autolinked references and URLs](https://help.github.com/articles/autolinked-references-and-urls/)
       - _References to URLs, issues, pull requests, and commits are automatically shortened and converted into links._
+
+
+## Academic Markdown
+
+- [Academic Markdown and Citations · Chris Krycho](http://www.chriskrycho.com/2015/academic-markdown-and-citations.html)
+  - _A workflow with Pandoc, BibTEX, and the editor of your choice._
