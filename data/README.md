@@ -17,6 +17,17 @@
 
 
 
+## Research
+
+- [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
+  - Search tool interface for finding scientific research papers from [arXiv.org archive](http://arxiv.org/).
+    - arXiv is _“a repository of electronic preprints … of scientific papers”_ —[Wikipedia](https://en.wikipedia.org/wiki/ArXiv)
+  - [Search results: image captioning](http://www.arxiv-sanity.com/search?q=image+captioning)
+  - [Search results: deep reinforcement learning](http://www.arxiv-sanity.com/search?q=deep+reinforcement+learning)
+  - [Search results: "personal data"](http://www.arxiv-sanity.com/search?q=%22personal+data%22)
+
+
+
 ## Open Data
 
 - [Frictionless Open Data](http://data.okfn.org/)
