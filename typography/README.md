@@ -32,3 +32,5 @@
     - _ILT, the world’s most popular fonts & typography blog._
   - [We Love Typography](http://welovetypography.com/)
     - _a curated gallery of type-related content._
+- [Analyzing 50k fonts using deep neural networks | Erik Bernhardsson](http://erikbern.com/2016/01/21/analyzing-50k-fonts-using-deep-neural-networks/)
+  - [Some more font links | Erik Bernhardsson](http://erikbern.com/2016/01/25/some-more-font-links/)
