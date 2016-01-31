@@ -2,6 +2,20 @@
 
 
 
+## Algorithms
+
+- [The Black Box Society — Frank Pasquale | Harvard University Press](http://www.hup.harvard.edu/catalog.php?isbn=9780674368279)
+  - _The Secret Algorithms That Control Money and Information_
+  - “Frank Pasquale exposes how powerful interests abuse secrecy for profit and explains ways to rein them in. Demanding transparency is only the first step. An intelligible society would assure that key decisions of its most important firms are fair, nondiscriminatory, and open to criticism. Silicon Valley and Wall Street need to accept as much accountability as they impose on others.”
+  - [Frank Pasquale (@FrankPasquale) | Twitter](https://twitter.com/FrankPasquale)
+  - [Why algorithms need to be accountable (Wired UK)](http://www.wired.co.uk/news/archive/2016-01/29/make-algorithms-accountable)
+    - “Algorithms run everything from Uber to advertising. They're used to sift through our CVs, check our credit and decide whether we get health insurance. But when they turn into ‘black boxes’ that don't offer up their secrets, we can't hold them accountable.”
+    - “Only now is this issue starting to be taken seriously. The London School of Economics recently introduced a masters degree in data and society, aiming to understand the human consequences of a data-driven society.”
+    - “Making algorithms accountable would also be helped by solid data protection, potentially banning their use with data that's too sensitive. If it's not possible to be accountable, don't use the data in the algorithm.”
+- [The Future of Work? The Robot Takeover is Already Here — Medium](https://medium.com/@jannaq/the-robot-takeover-is-already-here-5aa55e1d136a#.nl4ucvb20)
+  - “Algorithms are driving the world. We are information. Everything is code. We are becoming dependent upon and even merging with our machines. Advancing the rights of the individual in this vast, complex network is difficult and crucial.”
+
+
 
 ## Open Data
 
@@ -14,3 +28,9 @@
   - [Outreach & Community](http://data.okfn.org/contribute)
     - _Engaging around the concepts, standards and tooling and building a community of users and contributors._
     - _This project is a community-driven effort of Open Knowledge Labs._
+
+
+## Data visualization
+
+- [If everything is a network, nothing is a network](https://visualisingadvocacy.org/blog/if-everything-network-nothing-network)
+  - _“How the simplistic network diagram came to dominate our imagination and why we shouldn’t blindly go with the flow.”_
