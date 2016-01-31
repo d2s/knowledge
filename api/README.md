@@ -7,7 +7,7 @@
 After Facebook [announced](http://blog.parse.com/announcements/moving-on/) that they are closing down Parse,
 they also [released migration tools](http://blog.parse.com/announcements/introducing-parse-server-and-the-database-migration-tool/)
 and [Parse Server](https://github.com/ParsePlatform/parse-server) for self-hosting APIs.
-Main problem with the released server the lack of some core features of an API platform.
+Main problem with the released server is the lack of some core features of an API platform.
 Even while individual developers started deploying their own instances of Parse Server
 ([Deploying Parse Server on AWS](https://gist.github.com/hassy/48bae515c393e9214d3f)),
 others also started to document their progress on finding alternatives.
