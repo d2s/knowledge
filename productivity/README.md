@@ -28,8 +28,7 @@ are brought forth or produced.”_
       - W. Edwards Deming: “If you give a manager a numerical target, he’ll make it even if he has to destroy the company in the process.”
   - [Responsibility is a virus](http://www.samihonkonen.com/responsibility-is-a-virus/)
     - “Trying to make someone responsible also displays an inability to distinguish between accountability and responsibility. When people are accountable, they’ll do things to avoid being punished. Accountability can be assigned. When people are responsible, they’ll do things because they feel those things are worth doing. Responsibility is always intrinsic and can not be assigned.”
-  - [
-Starting work at our company is scary. And it should be.](http://www.samihonkonen.com/starting-work-at-our-company-is-scary-and-it-should-be/)
+  - [Starting work at our company is scary. And it should be.](http://www.samihonkonen.com/starting-work-at-our-company-is-scary-and-it-should-be/)
     - “Traditional companies create an illusion of certainty with budgets, targets, roles and responsibilities. It’s a way of protecting people from a world fraught with uncertainty. While it may be comforting, it is still an illusion. It is better to help people learn to deal with uncertainty than to create an illusion of certainty.”
 - **Belle Beth Cooper**
   - [Prioritisation](http://blog.bellebethcooper.com/prioritisation.html)
