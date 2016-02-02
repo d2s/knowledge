@@ -18,12 +18,11 @@ are brought forth or produced.”_
     - _“Statoil, Scandinavia’s largest company with a turnover of 130 billion USD, stopped doing budgeting in 2005. They switched to a model in which budget decisions are made continuously as new information emerges.”_
   - [Controlling a project leads to poor results](http://www.samihonkonen.com/controlling-a-project-leads-to-poor-results/)
     - “In fact, controlling a project will decrease its chances of becoming a major success. Using control on a type B project will degrade it into type A. To maximize value we need to be creative and disruptive. We need to do things differently, possibly in an unexpected way. Exercising control will prevent this magic from ever happening.”
-  - [
-The most destructive misunderstanding in today’s work life](http://www.samihonkonen.com/the-most-destructive-misunderstanding-in-todays-work-life/)
+  - [The most destructive misunderstanding in today’s work life](http://www.samihonkonen.com/the-most-destructive-misunderstanding-in-todays-work-life/)
     - “Thinking that high utilization leads to good results is the most destructive misunderstanding still prevalent in work life.”
-    - “What makes focusing on utilization so bad? It leads to multitasking, increases overhead, kills creativity, hinders problem solving, overloads and stresses employees and prevents continuous improvement.”
+      - “What makes focusing on utilization so bad? It leads to multitasking, increases overhead, kills creativity, hinders problem solving, overloads and stresses employees and prevents continuous improvement.”
     - “We should focus on results, not utilization.”
-    - “Instead of focusing on hard work we should focus on finding the easiest, quickest and simplest way of reaching the desired outcome.”
+      - “Instead of focusing on hard work we should focus on finding the easiest, quickest and simplest way of reaching the desired outcome.”
   - [Measures should not be targets](http://www.samihonkonen.com/measures-should-not-be-targets/)
     - “Measures are useful. Numerical targets are dangerous. And once a measure becomes a target it stops being a good measure.”
       - W. Edwards Deming: “If you give a manager a numerical target, he’ll make it even if he has to destroy the company in the process.”
