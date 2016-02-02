@@ -13,6 +13,7 @@
     - [Quotation marks in English](https://en.wikipedia.org/wiki/Quotation_mark#Quotation_marks_in_English)
       - ‘…’
       - “…”
+      - _“…”_
     - [Quotation marks in Finnish and Swedish](https://en.wikipedia.org/wiki/Quotation_mark#Finnish_and_Swedish)
       - ’A’
       - ”A”
