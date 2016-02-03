@@ -1,4 +1,15 @@
-# API development
+# API usage & development
+
+
+
+
+## Automation tools using APIs
+
+- [IFTTT](https://ifttt.com/)
+- [Zapier](https://zapier.com/)
+  - _“Connect the apps you use, automate tasks, get more out of your data.”_
+
+
 
 
 
