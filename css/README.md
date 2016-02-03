@@ -57,8 +57,35 @@ Good way to learn is to watch & read presentations.
   - [rstacruz/rscss](https://github.com/rstacruz/rscss) (GitHub repository)
 
 
-
 ### CSS namespaces
 
 - [css-ns](https://www.npmjs.com/package/css-ns)
   - CSS namespaces generator written in JavaScript
+
+
+
+## CSS libraries
+
+- [Hint.css - A tooltip library in CSS](http://kushagragour.in/lab/hint/)
+- [lollipop.css - Android lollipop animations in CSS](http://kushagragour.in/lab/lollipop.css/)
+- [Font Awesome](http://fontawesome.io/)
+  - _“the iconic font and CSS toolkit”_
+
+
+
+## CSS frameworks
+
+- [Foundation](http://foundation.zurb.com/)
+  - a responsive front-end framework
+  - [Foundation for Sites](http://foundation.zurb.com/sites.html)
+    - _“Get from Prototype to Production”_
+    - A11y Friendly
+      - “The Base for Fully Accessible Sites”
+      - “All code snippets come with ARIA attributes and roles along with instructions on how to properly use these components. This helps ensure that every website built on Foundation 6 can be used anywhere, on any device, by anyone.”
+  - [Foundation for Emails](http://foundation.zurb.com/emails.html)
+    - _“A Responsive Email Framework from ZURB”_
+    - “Quickly create responsive HTML emails that work on any device & client. Even Outlook.”
+  - [Foundation for Apps](http://foundation.zurb.com/apps.html)
+    - _“The first front-end framework created for developing fully responsive web apps.”_
+- [Bootstrap](https://getbootstrap.com/)
+  - _“The world's most popular mobile-first and responsive front-end framework.”_
