@@ -13,7 +13,8 @@
 - [Trending JavaScript repositories on GitHub today](https://github.com/trending?l=javascript)
 - [lodash](https://lodash.com/)
   - _A modern JavaScript utility library delivering modularity, performance, & extras._
-
+  - [stevemao/You-Dont-Know-About-Lodash-Underscore](https://github.com/stevemao/You-Dont-Know-About-Lodash-Underscore)
+    - “If you're only using a handful of methods on arrays and don't care about nullish guards, object iteration, smoothing over enviro/ES5/ES6 issues, FP goodies, iteratee shorthands, lazy evaluation, or other enhancements then built-ins are the way to go. Folks who use lodash know its 270+ modules work great combo'ed with ES6, enabling cleaner code and empowering beyond built-ins.”
 
 
 ## Quality improvement
@@ -51,3 +52,10 @@ Good way to learn is to watch & read presentations.
   - _Alex Russell, a developer working on Chrome, Blink, and the Web Platform at Google._
   - [Doing Science On The Web](https://infrequently.org/2015/08/doing-science-on-the-web/)
     - _This post is about vendor prefixes, why they didn’t work, and why it’s toxic not to be able to launch experimental features._
+
+
+
+## JavaScript libraries
+
+- [chinchang/screenlog.js](https://github.com/chinchang/screenlog.js)
+  - _“Bring console.log on the screen”_
