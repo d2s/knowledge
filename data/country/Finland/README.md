@@ -19,6 +19,15 @@
   - Open data API with ability to search details about companies in Finland.
 
 
+## Culture data
+
+- [Finna](https://www.finna.fi/?lng=en-gb)
+  - _“The material of Finnish archives, libraries and museums with a single search”_
+  - The National Library of Finland (Kansalliskirjasto)
+    - [Finna.fi to open access to a record-breaking amount of Finnish cultural data](http://www.nationallibrary.fi/en/finnafi-open-access-record-breaking-amount-finnish-cultural-data)
+      - [Finna.fi avaa ennätysmäärän suomalaista kulttuuridataa](http://kansalliskirjasto.fi/fi/finnafi-avaa-enn%C3%A4tysm%C3%A4%C3%A4r%C3%A4n-suomalaista-kulttuuridataa)
+
+
 ## Health related information
 
 - [Tilastoja hyvinvoinnin ja terveyden edistämisestä — Sosiaali- ja terveysministeriö](http://stm.fi/tilastot/tilastoja-hyvinvoinnin-ja-terveyden-edistamisesta)
@@ -38,3 +47,9 @@
 
 - [Helsingin lähijunat - Lähiliikenne](http://liikenne.hylly.org/rata/lahi/) automaattisesti päivittyvässä kaaviossa.
   - Local trains in the Helsinki, Finland capital area.
+
+
+## Future data sources
+
+- [Datanavaussuunnitelmat - DataBusiness.fi](http://databusiness.fi/suunnitelmat/)
+  - _“Espoo, Helsinki, Kauniainen, Oulu, Tampere, Turku, Vantaa”_
