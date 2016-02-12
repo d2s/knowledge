@@ -13,3 +13,12 @@
     - Decision context
     - Design context
     - Async and open
+
+
+
+
+## Project planning
+
+- [Google re:Work](https://rework.withgoogle.com/)
+  - [Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
+    - “Studies have shown that committing to a goal can help improve employee performance. But more specifically, research reveals that setting challenging and specific goals can further enhance employee engagement in attaining those goals. Google often uses _“Objectives and Key Results”_ (OKRs) to try to set ambitious goals and track progress.”
