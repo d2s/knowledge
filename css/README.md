@@ -55,10 +55,35 @@ Good way to learn is to watch & read presentations.
 - [rscss](http://rscss.io/)
   - _“A set of simple ideas to guide your process of building maintainable CSS.”_
   - [rstacruz/rscss](https://github.com/rstacruz/rscss) (GitHub repository)
+- ITCSS
+  - [ITCSS: Scalable and Maintainable CSS Architecture](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/)
+    - _“How do I make my CSS scalable and maintainable? It’s a concern for every front-end developer. ITCSS has an answer.”_
+    - What is ITCSS?
+    - Documentation
+    - Resources
+    - Experience
+      - Less thinking on naming and styles location
+      - Objects reusability for fast development
+      - Animations
+      - Flexibility
+      - Critical CSS
+      - File size and styles duplication
+    - Conclusion
+  - [How I Shrank my CSS by 84kb by Refactoring with ITCSS – Jordan Koschei](http://jordankoschei.com/itcss/)
+    - “Before the refactor, my CSS weighed 111kb. After the refactor, it weighed 27kb.”
+  - [Managing CSS Projects with ITCSS – Harry Roberts](https://speakerdeck.com/dafed/managing-css-projects-with-itcss) (2014)
+    - _Presentation_
+      - “Managing CSS at scale is hard; and a lot harder than it should be. ITCSS is a simple, effective, and as-yet unpublished methodology to help manage, maintain, and scale CSS projects of all sizes. In this talk we’ll take a sneak peek at what ITCSS is and how it works to tame and control UI code as it grows.”
+  - [inuitcss](https://github.com/inuitcss)
+    - “A collection of pre-alpha modules to form the new, improved inuitcss”
+
+
 
 
 ### CSS namespaces
 
+- [css-modules](https://github.com/css-modules/css-modules)
+  - Documentation about css-modules
 - [css-ns](https://www.npmjs.com/package/css-ns)
   - CSS namespaces generator written in JavaScript
 
