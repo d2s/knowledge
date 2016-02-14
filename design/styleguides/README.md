@@ -25,6 +25,8 @@ A design system is a living, funded product with a roadmap & backlog, serving an
 
 - [styleguides.io - Website Style Guide Resources](http://styleguides.io/)
   - Articles, Books, Podcasts, Talks, Tools, Examples
+- [edX Pattern Library](http://ux.edx.org/)
+  - “The Visual, UI, and Front End styleguide for edX's applications”
 
 
 ## Print design
