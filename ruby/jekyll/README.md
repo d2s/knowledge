@@ -10,17 +10,29 @@
 
 ## Documentation
 
+- [Quick-start guide](https://jekyllrb.com/docs/quickstart/)
+- [Templates](https://jekyllrb.com/docs/templates/)
+- [Liquid for Designers · Shopify/liquid Wiki](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 - [Code snippet highlighting](https://jekyllrb.com/docs/templates/#code-snippet-highlighting)
 - [Quick Reference | kramdown](http://kramdown.gettalong.org/quickref.html)
   - List of all Markdown extensions available via kramdown text parser.
-  - Includes several extensions that help with academic writing.
+  - Includes extensions that help with academic writing.
+
+
+
+
+
+
 
 
 
 
 ## Themes
 
-- _“…”_
+- [cfpb/DOCter](https://github.com/cfpb/DOCter)
+  - A Jekyll template for project documentation
+- [18F Guides template for Jekyll](https://pages.18f.gov/guides-template/)
+  - [18F Guides Template style elements, derived from CFPB/DOCter](https://github.com/18F/guides-style)
 
 
 
