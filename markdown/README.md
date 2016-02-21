@@ -20,6 +20,18 @@ _Markdown is an easy-to-read, easy-to-write syntax for formatting plain text._
       - _References to URLs, issues, pull requests, and commits are automatically shortened and converted into links._
 
 
+## Kramdown (Markdown parser)
+
+- [HTML Converter | kramdown](http://kramdown.gettalong.org/converter/html.html)
+  - Features
+    - Automatic “Table of Contents” Generation
+    - Automatic Syntax Highlighting
+    - Math Support
+    - Footnotes
+
+
+
+
 ## Academic Markdown
 
 - [Academic Markdown and Citations · Chris Krycho](http://www.chriskrycho.com/2015/academic-markdown-and-citations.html)
