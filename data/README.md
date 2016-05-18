@@ -45,3 +45,9 @@
 
 - [If everything is a network, nothing is a network](https://visualisingadvocacy.org/blog/if-everything-network-nothing-network)
   - _“How the simplistic network diagram came to dominate our imagination and why we shouldn’t blindly go with the flow.”_
+
+
+## Data privacy
+
+- [Max Levchin on Trading Privacy for Value and the Quantified Self](http://blog.mixpanel.com/2016/05/17/max-levchin-quantified-self-and-privacy/)
+  - _“And yet, the larger the quantities of data we collect, the larger the threat to personal privacy seems to grow.”_

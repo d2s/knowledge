@@ -28,6 +28,14 @@
       - [Finna.fi avaa ennätysmäärän suomalaista kulttuuridataa](http://kansalliskirjasto.fi/fi/finnafi-avaa-enn%C3%A4tysm%C3%A4%C3%A4r%C3%A4n-suomalaista-kulttuuridataa)
 
 
+## Event data
+
+- [City-of-Helsinki/linkedevents: Linked Events event database and API](https://github.com/City-of-Helsinki/linkedevents)
+  - _“Linked Events provides categorized data on events and places. The project was originally developed for the City of Helsinki.”_
+  - _“The Linked Events API for the Helsinki capital region contains data from the Helsinki City Tourist & Convention Bureau, the City of Helsinki Cultural Office and the Helmet metropolitan area public libraries.”_
+  - Python -based implementation of the API
+
+
 ## Health related information
 
 - [Tilastoja hyvinvoinnin ja terveyden edistämisestä — Sosiaali- ja terveysministeriö](http://stm.fi/tilastot/tilastoja-hyvinvoinnin-ja-terveyden-edistamisesta)
