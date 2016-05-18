@@ -13,10 +13,28 @@
 
 - [Designers shouldn’t code. They should study business. — Joshua Taylor](https://medium.com/@joshuantaylor/designers-shouldn-t-code-they-should-study-business-dc3e7e203d39#.df9fmoryb)
   - “But for us to truly understand the best way to help a business we have to start focusing on what makes the business successful. We must first understand business in general. Then we will better understand where craft is important (and where excessive).”
+- [Lean Service Creation Kit by Futurice](https://futurice.github.io/lean-service-creation-kit/)
+  - _“The LSC Toolkit was created for everyone who wants to create new services and innovate based on the best practices in the industry.”_
 
 
+## Algorithms in an data-informed design process
 
-
+- [Design like a Human in the Age of Algorithms | UX Magazine](http://uxmag.com/articles/design-like-a-human-in-the-age-of-algorithms)
+  - Gaming the Algorithm
+  - Algorithms
+    - are backwards-facing.
+    - paint in broad strokes.
+    - have incomplete information.
+    - draw from a variety of sources.
+  - Humanizing the Algorithm
+  - Review. Curation. Communication.
+  - Revealing the Algorithm
+  - Cultivating Algorithmic Empathy
+    - Data Role Play
+    - Algorithm Swap
+    - Data Doubles
+    - Algorithmic Personas
+    - Shared Mythologies
 
 
 ## Design resources
