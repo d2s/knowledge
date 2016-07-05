@@ -15,6 +15,15 @@
   - _A modern JavaScript utility library delivering modularity, performance, & extras._
   - [stevemao/You-Dont-Know-About-Lodash-Underscore](https://github.com/stevemao/You-Dont-Know-About-Lodash-Underscore)
     - “If you're only using a handful of methods on arrays and don't care about nullish guards, object iteration, smoothing over enviro/ES5/ES6 issues, FP goodies, iteratee shorthands, lazy evaluation, or other enhancements then built-ins are the way to go. Folks who use lodash know its 270+ modules work great combo'ed with ES6, enabling cleaner code and empowering beyond built-ins.”
+- [Ramda](http://ramdajs.com/)
+  - _“A practical functional library for Javascript programmers.”_
+  - The primary distinguishing features of Ramda are:
+    - Ramda emphasizes a purer functional style. Immutability and side-effect free functions are at the heart of its design philosophy. This can help you get the job done with simple, elegant code.
+    - Ramda functions are automatically curried. This allows you to easily build up new functions from old ones simply by not supplying the final parameters.
+    - The parameters to Ramda functions are arranged to make it convenient for currying. The data to be operated on is generally supplied last.
+    - [Why Curry Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps)
+      - Introduction to _what is currying_.
+
 
 
 ## Quality improvement
