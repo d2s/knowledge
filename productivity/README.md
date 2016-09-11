@@ -6,6 +6,19 @@ are brought forth or produced.”_
 – [Dictionary](http://dictionary.reference.com/browse/productivity)
 
 
+## Time management methods
+
+- [Systemist: A modern productivity workflow](https://blog.todoist.com/user-stories/systemist-personal-workflow/)
+  - 1) Take it everywhere
+  - 2) Capture everything
+  - 3) Break it up in small tasks and make them actionable
+  - 4) Prioritize
+  - 5) Get to to-do list zero daily
+  - 6) Get consistent feedback
+  - Bonus tips:
+    - Managing emails
+    - Managing chat 
+
 
 ## Articles
 
@@ -47,3 +60,46 @@ are brought forth or produced.”_
     - “Stack habits: Build new routines onto existing ones”
       - “Research has shown a cue to work on your new habit may be the most effective way to ensure you stick to the habit long-term. When you stack habits, you use the existing ones as cues for each new habit you want to build.”
         - “Over time you can keep stacking new habits onto your existing ones to take advantage of automatic behaviors you’re already doing.”
+  - [My monthly review](https://exist.io/blog/review/)
+    - Items
+      - What did I complete this month that I'm proud of?
+      - What one habit did I focus on this month, and how did it go?
+      - What experiments did I try this month?
+      - I want to complete
+      - I want to focus on this one habit
+      - Long-term
+    - What I've learned so far
+      - Keep it visible
+      - Keep it simple
+      - Track your progress
+      - Keep it up
+    - [Example monthly reviews](http://blog.bellebethcooper.com/category/monthly-reviews.html) from her blog.
+  - [Bookmarking with Larder app](https://larder.io/blog/larder-uses/)
+    - Overview of how to use bookmarking app(s) more productively.
+  - [Build the Perfect Productivity System with Paper Notebooks and Digital Tools](https://zapier.com/blog/digital-and-paper-note-taking-systems/)
+  - [How writing 750 words a day could change your life — Quartz](http://qz.com/777929/writing-morning-pages-can-offer-many-of-the-same-benefits-as-meditation/)
+  - [My writing by Belle](https://larder.io/public/belle/my-writing/)
+- **Kyle Mathews**
+  - [The problem of too general tools](https://www.bricolage.io/problem-too-general-tools/)
+    - _“… if you want an individual to choose to use your software, you have to solve their specific problem well.”_ 
+  - [Building your own tools](https://www.bricolage.io/building-your-own-tools/)
+- **Todoist**
+  - [Why Single-Tasking Is Your Greatest Competitive Advantage (Plus 19 Ways To Actually Do It)](https://blog.todoist.com/2015/09/01/why-single-tasking-is-your-greatest-competitive-advantage-plus-19-ways-to-actually-do-it/)
+  - [How Exceptionally Productive People End The Workday](https://blog.todoist.com/2015/07/15/how-exceptionally-productive-people-end-the-workday/)
+  - [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
+  - [10 Hidden Features of Todoist](https://blog.todoist.com/2015/09/03/10-hidden-features-of-todoist/)
+
+
+
+## /now
+
+- [The /now page movement | Derek Sivers](https://sivers.org/nowff)
+  - [Derek Sivers | What I’m doing now](https://sivers.org/now)
+  - [Gregory Brown | What I’m doing now](https://practicingdeveloper.com/now/)
+    - [Practicing Developer](https://practicingdeveloper.com/)
+  - [Belle B. Cooper | What I'm working on now](http://bellebethcooper.com/now.html)
+  - [Mervi Emilia | What I'm doing now](http://merviemilia.com/now)
+  - [Marc Jenkins | What I’m doing now](https://marcjenkins.co.uk/now/)
+  - [Garrick van Buren | What I’m Focused on Now](https://garrickvanburen.com/now/)
+  - [sites with a /now page | nownownow.com](http://nownownow.com/)
+
