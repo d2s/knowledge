@@ -52,3 +52,11 @@
 
 - [Through Process](http://throughprocess.com/)
   - _“Through Process is a podcast about how we become designers.”_
+
+
+## Articles
+
+- [Design.blog | Design, Inclusion, +/- Tech](https://design.blog/)
+  - [Julie Zhuo on the Lessons of Good Design | Design.blog](https://design.blog/2016/09/01/julie-zhuo-on-the-lessons-of-good-design/)
+- [Design Just Ate My Software: How Designers Are Leading the Product Revolution | ZURB Blog](http://zurb.com/article/1444/design-just-ate-my-software-how-designers)
+
