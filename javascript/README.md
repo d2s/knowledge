@@ -30,7 +30,7 @@
 ## Quality improvement
 
 - [JavaScript Standard Style](http://standardjs.com/)
-  - _No decisions to make. No .eslintrc, .jshintrc, or .jscsrc files to manage. It just works._
+  - _“No decisions to make. No .eslintrc, .jshintrc, or .jscsrc files to manage. It just works.”_
   - _This module saves you (and others!) time in two ways:_
     - _No configuration. The easiest way to enforce consistent style in your project. Just drop it in._
     - _Catch style errors before they're submitted in PRs. Saves precious code review time by eliminating back-and-forth between maintainer and contributor._
@@ -43,9 +43,9 @@
 Good way to learn is to watch & read presentations.
 
 - [AllThingsSmitty/must-watch-javascript](https://github.com/AllThingsSmitty/must-watch-javascript#must-watch-javascript)
-  - _A useful list of must-watch talks about JavaScript_
+  - _“A useful list of must-watch talks about JavaScript”_
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
-  - _Must-watch videos about JavaScript_
+  - _“Must-watch videos about JavaScript”_
 
 
 
@@ -59,9 +59,9 @@ Good way to learn is to watch & read presentations.
 ## Blogs
 
 - [Infrequently Noted](https://infrequently.org/)
-  - _Alex Russell, a developer working on Chrome, Blink, and the Web Platform at Google._
+  - _“Alex Russell, a developer working on Chrome, Blink, and the Web Platform at Google.”_
   - [Doing Science On The Web](https://infrequently.org/2015/08/doing-science-on-the-web/)
-    - _This post is about vendor prefixes, why they didn’t work, and why it’s toxic not to be able to launch experimental features._
+    - _“This post is about vendor prefixes, why they didn’t work, and why it’s toxic not to be able to launch experimental features.”_
 
 
 
@@ -69,3 +69,12 @@ Good way to learn is to watch & read presentations.
 
 - [chinchang/screenlog.js](https://github.com/chinchang/screenlog.js)
   - _“Bring console.log on the screen”_
+
+
+## Typography with JavaScript
+
+- [KyleAMathews/typography.js](https://github.com/KyleAMathews/typography.js)
+  - _“A powerful toolkit for building websites with beautiful design”_
+  - _“Typography is a complex system of interrelated styles.”_
+  - [Typography.js (official website)](http://kyleamathews.github.io/typography.js/) with an example theme builder widget.
+
