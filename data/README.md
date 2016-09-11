@@ -46,6 +46,12 @@
 - [If everything is a network, nothing is a network](https://visualisingadvocacy.org/blog/if-everything-network-nothing-network)
   - _“How the simplistic network diagram came to dominate our imagination and why we shouldn’t blindly go with the flow.”_
 
+### People who create data visualizations
+
+- [Janne Aukia (@jaukia) | Twitter](https://twitter.com/jaukia)
+
+
+
 
 ## Data privacy
 
