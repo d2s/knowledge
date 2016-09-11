@@ -7,6 +7,8 @@
 - [Code School courses about Git](https://www.codeschool.com/paths/git)
   - [Try Git](https://www.codeschool.com/courses/try-git)
     - _Learn how to use Git by reviewing the basic concepts of Git version control._
+- [Oh, sh*t, git!](http://ohshitgit.com/)
+  - Quick tips on how to revert your Git commits from problem situations. 
 
 
 ## Improving productivity
