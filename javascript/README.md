@@ -5,6 +5,7 @@
 ## ECMAScript 6
 
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) book written by Nicholas C. Zakas.
+- [ECMAScript 6: New Features](http://es6-features.org/) Overview of ES6 features with Comparison of how to do similar things with older ES5 version, if needed.
 
 
 
