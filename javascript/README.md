@@ -78,3 +78,17 @@ Good way to learn is to watch & read presentations.
   - _“Typography is a complex system of interrelated styles.”_
   - [Typography.js (official website)](http://kyleamathews.github.io/typography.js/) with an example theme builder widget.
 
+
+
+## Interviewing JavaScript developers
+
+- [khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions)
+
+
+
+## Flow static typing
+
+- [Flow](https://www.flowtype.org/)
+  - A static type checker for JavaScript from Facebook engineering team
+- [marudor/flowInterfaces](https://github.com/marudor/flowInterfaces)
+  - _“Flow interfaces for 40+ common npm modules like Lodash, Redux, Moment, and Koa.”_
