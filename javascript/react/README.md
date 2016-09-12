@@ -72,6 +72,7 @@
 
 ## Development guidelines
 
+- [React best practices by Christoffer Niska](http://slides.com/christofferniska/react-best-practices)
 - [FormidableLabs/formidable-playbook](https://github.com/FormidableLabs/formidable-playbook)
   - [FormidableLabs/formidable-react-starter](https://github.com/FormidableLabs/formidable-react-starter)
 - [ghengeveld/react-redux-styleguide](https://github.com/ghengeveld/react-redux-styleguide)
