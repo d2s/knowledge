@@ -8,6 +8,13 @@
   - [PDF version](https://thomashunter.name/consumer-centric-api-design/Consumer-Centric%20API%20Design%20v0.4.0.pdf) available for free.
 
 
+## Papers
+
+- [api_design · papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love/tree/master/api_design)
+  - [Little Manual of API Design](https://github.com/papers-we-love/papers-we-love/blob/master/api_design/api-design.pdf) _(by Jasmin Blanchette, Trolltech)_
+  - [Architectural Styles and the Design of Network-based Software Architectures (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf) _(by Roy Fielding)_
+
+
 ## API documentation tools
 
 - [tripit/slate: Beautiful static documentation for your API](https://github.com/tripit/slate)
