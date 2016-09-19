@@ -28,3 +28,7 @@
 
 
 
+## Systems engineering
+
+- [Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside](https://vimeo.com/173610242) (video)
+
