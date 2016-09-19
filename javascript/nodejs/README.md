@@ -21,4 +21,13 @@
     - 150+ Supported OAuth Providers
 
 
+## Templating engines
 
+- [Marko - Template engine + UI Components](http://markojs.com/)
+  - Created by eBay, Marko is a lightweight HTML-based templating engine for Node.js applications.
+
+
+## Prototyping
+
+- [RunKit](https://runkit.com/) is an online service for running JavaScript code.
+  - _All of npm's 300,000+ modules are already pre-installed, just require them!_

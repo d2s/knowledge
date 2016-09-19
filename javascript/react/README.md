@@ -96,4 +96,5 @@
   - Ruthlessly simple bindings to keep react-router and redux in sync
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux)
   - _“Awesome list of Redux examples and middlewares”_
-
+- [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
+  - [Redux DevTools without Redux or how to have a predictable state with any architecture](https://medium.com/@zalmoxis/redux-devtools-without-redux-or-how-to-have-a-predictable-state-with-any-architecture-61c5f5a7716f)

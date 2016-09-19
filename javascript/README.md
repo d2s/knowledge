@@ -67,8 +67,11 @@ Good way to learn is to watch & read presentations.
 
 ## JavaScript libraries
 
+- [Lodash](https://lodash.com/) _makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc._
+- [thejameskyle/pretty-format](https://github.com/thejameskyle/pretty-format) can be used to stringify any JavaScript value.
 - [chinchang/screenlog.js](https://github.com/chinchang/screenlog.js)
   - _“Bring console.log on the screen”_
+
 
 
 ## Typography with JavaScript
