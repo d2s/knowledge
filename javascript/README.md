@@ -89,7 +89,14 @@ Good way to learn is to watch & read presentations.
 
 
 
-## Flow static typing
+## JavaScript code quality
+
+
+- [JavaScript code quality with free tools – Building Apollo – Medium](https://medium.com/apollo-stack/javascript-code-quality-with-free-tools-9a6d80e29f2d)
+  - Advice on setting up Static type checking, Linting, Continuous integration testing on multiple platforms, and Code coverage analysis.
+
+
+### Flow static typing
 
 - [Flow](https://www.flowtype.org/)
   - A static type checker for JavaScript from Facebook engineering team
