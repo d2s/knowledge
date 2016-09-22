@@ -26,6 +26,8 @@
     - _How do we create scalable CSS?_
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips)
   - A small list of tips to improve your CSS skills
+- [Alligator.io](https://alligator.io/)
+  - _“Front End Web Technologies, Chewed Up”_
 
 
 

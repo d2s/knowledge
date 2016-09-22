@@ -31,3 +31,12 @@
 
 - [RunKit](https://runkit.com/) is an online service for running JavaScript code.
   - _All of npm's 300,000+ modules are already pre-installed, just require them!_
+
+
+## Package management
+
+- [Lerna](https://github.com/lerna/lerna)
+  - _“A tool for managing JavaScript projects with multiple packages.”_
+  - [Lerna (official website)](https://lernajs.io/)
+    - _“Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.”_
+

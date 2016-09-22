@@ -4,6 +4,14 @@ _“In computing, reactive programming is a programming paradigm
 oriented around data flows and the propagation of change.”_
 
 
+## Articles
+
+- [The Taxonomy of Reactive Programming](https://vsavkin.com/the-taxonomy-of-reactive-programming-d40e2e23dee4)
+  - Events and State
+  - Deriving and Executing
+
+
+
 ## Libraries
 
 - [Cycle.js](http://cycle.js.org/)

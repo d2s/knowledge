@@ -15,6 +15,32 @@
   - “But for us to truly understand the best way to help a business we have to start focusing on what makes the business successful. We must first understand business in general. Then we will better understand where craft is important (and where excessive).”
 - [Lean Service Creation Kit by Futurice](https://futurice.github.io/lean-service-creation-kit/)
   - _“The LSC Toolkit was created for everyone who wants to create new services and innovate based on the best practices in the industry.”_
+- [Black Design](http://www.black.design/)
+  - _“Black Design demystifies the design process for early stage startups. We translate relevant design know-how to free actionable tools for founders.”_
+  - User Observation Tool
+  - Messaging Tool
+  - 150 Second Pitch Tool
+  - Design Brief Tool
+  - MVP Spec Tool
+
+
+### Animations
+
+- [Designing Interface Animation · An A List Apart Article](http://alistapart.com/article/designing-interface-animation)
+  - _“Each animation in an interface tells a micro story”_
+
+### Mobile UI Design
+
+- [The Thumb Zone: Designing For Mobile Users – Smashing Magazine](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/)
+  - _“If there is one thing that will stand the test of time, it’s thumb placement on mobile devices. This makes consideration of the “thumb zone“, a term coined in Steven Hoober’s research, an important factor in the design and development of mobile interfaces.”_
+
+
+
+## Static site generators
+
+- [In defense of static sites](https://speakerdeck.com/feministy/in-defense-of-static-sites) (presentation)
+  - _“Static sites serve a purpose, and they're really important pieces of the web's history and its future. Static doesn't mean forever unchanged and it doesn't mean you're stuck with a dead site that you can never update. Quite frankly, static sites have gotten a bad reputation and it's not their fault: we've all been so distracted by shiny new things to remember their virtues. I'll revisit what it means to build a static site, what the use cases are, how you know its the right technical choice, what tools to use, and when to scale up to something more complex.”_
+
 
 
 ## Algorithms in an data-informed design process
@@ -46,12 +72,19 @@
     - “A collection of Photoshop actions, Photoshop scripts, Hazel rules, OS X workflows and other random things for screen designers and developers. All free and open source, released under the BSD license.”
 - [How designers worked in 2015?](https://2015.avocode.com/)
   - _“Over 1000 designs are uploaded into Avocode every day. We've put them into a perspective.”_
+- [Resource Cards](https://resourcecards.com/)
+  - _“Selected free resources for designers”_
 
 
 ## Podcasts
 
 - [Through Process](http://throughprocess.com/)
   - _“Through Process is a podcast about how we become designers.”_
+- [Hacking UI](http://hackingui.com/)
+  - _“Product Design & Frontend Development Newsletter & Magazine & Podcast”_
+- [15 Web Design Podcasts](https://www.shopify.com/partners/blog/114348998-15-web-design-podcasts-you-need-to-listen-to-in-2016)
+  - _“Happy listening!”_
+
 
 
 ## Articles
@@ -59,4 +92,3 @@
 - [Design.blog | Design, Inclusion, +/- Tech](https://design.blog/)
   - [Julie Zhuo on the Lessons of Good Design | Design.blog](https://design.blog/2016/09/01/julie-zhuo-on-the-lessons-of-good-design/)
 - [Design Just Ate My Software: How Designers Are Leading the Product Revolution | ZURB Blog](http://zurb.com/article/1444/design-just-ate-my-software-how-designers)
-

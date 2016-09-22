@@ -6,7 +6,8 @@
 
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) book written by Nicholas C. Zakas.
 - [ECMAScript 6: New Features](http://es6-features.org/) Overview of ES6 features with Comparison of how to do similar things with older ES5 version, if needed.
-
+- [ES6 Cheatsheet](https://es6cheatsheet.com/) ($)
+  - _“9 sections and 31 code samples.”_
 
 
 ## Commonly used JavaScript libraries
@@ -38,6 +39,22 @@
   - [feross/standard](https://github.com/feross/standard) (GitHub repository)
 
 
+### TypeScript
+
+- [TypeScript](http://www.typescriptlang.org/)
+  - _“TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.”_
+- [Getting Started · TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/docs/getting-started.html)
+  - _“There are two main goals of TypeScript:”_
+    - “Provide an _optional_ type system for JavaScript.”
+    - “Provide planned features from future JavaScript editions to current JavaScript engines”
+- [DefinitelyTyped](http://definitelytyped.org/)
+  - _“The repository for high quality TypeScript type definitions”_
+- [typings/typings](https://github.com/typings/typings)
+  - _“The TypeScript Definition Manager”_
+  - _“Typings is the simple way to manage and install TypeScript definitions.”_
+
+
+
 ## Presentations
 
 Good way to learn is to watch & read presentations.
@@ -51,8 +68,18 @@ Good way to learn is to watch & read presentations.
 
 ## JavaScript tips
 
+
+### jQuery
+
+- [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+  - Native JavaScript features compared to jQuery.
 - [jQuery Tips Everyone Should Know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 
+
+### Regular Expressions
+
+- [regex.party](http://regex.party/)
+  - _“Regular expressions are tiny programs that look for patterns in text.”_
 
 
 

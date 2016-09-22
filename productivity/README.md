@@ -88,7 +88,11 @@ are brought forth or produced.”_
   - [How Exceptionally Productive People End The Workday](https://blog.todoist.com/2015/07/15/how-exceptionally-productive-people-end-the-workday/)
   - [The Ultimate Guide to Personal Productivity Methods](https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/)
   - [10 Hidden Features of Todoist](https://blog.todoist.com/2015/09/03/10-hidden-features-of-todoist/)
-
+- [Justin Jackson](https://justinjackson.ca/)
+  - _“Make some stuff”_
+  - [How remote work changed my life | by @mijustin](https://justinjackson.ca/remote/)
+    - _“We live in the future”_
+      - “Technology companies sometimes surprise me: we pride ourselves on using the latest gadgets, the latest software, the latest coding practices, and the latest development methodologies. And yet so many of these technology companies won’t trust this same technology to enable remote work.”
 
 
 ## /now
@@ -102,4 +106,11 @@ are brought forth or produced.”_
   - [Marc Jenkins | What I’m doing now](https://marcjenkins.co.uk/now/)
   - [Garrick van Buren | What I’m Focused on Now](https://garrickvanburen.com/now/)
   - [sites with a /now page | nownownow.com](http://nownownow.com/)
+
+
+
+## Life management
+
+- [Unclutterer](https://unclutterer.com/)
+  - _“Daily tips on organizing and tidying up your home and office.”_
 
