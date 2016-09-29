@@ -28,8 +28,14 @@
   - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) is set of learning materials for people who want to learn how Kubernetes works internally.
 - [Containers and the Power of Ecosystems](http://geek.ly/Aci)
   - _“We are likely to see many more twists and turns in the path to user adoption.  It is even more likely that we will see the power of ecosystems prevail, just as they have with previous disruptive changes in the world of computing. ”_
+- [Increasing Resource Efficiency with Microscaling](https://blog.codeship.com/increasing-resource-efficiency-microscaling/)
+  - _“Public cloud and automation tools make it easy to over-provision. Often that’s the only way to handle complexity and unpredictable demand.”_
+  - Microscaling engine
+  - Metadata, containers, and orchestration
+  - Schema and formatting
+  - Labels to Use
 
-
+ 
 
 ## Systems engineering
 
