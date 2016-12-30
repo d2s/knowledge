@@ -20,6 +20,7 @@
       - ”A”
       - »A»
       - – A
+      - ― A
     - [Summary table for all languages](https://en.wikipedia.org/wiki/Quotation_mark#Summary_table_for_all_languages)
   - [Whitespace character](https://en.wikipedia.org/wiki/Whitespace_character)
 - [Typography](https://en.wikipedia.org/wiki/Typography)
