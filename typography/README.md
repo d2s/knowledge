@@ -9,6 +9,7 @@
     - _Em dash_ —
     - _En dash_ –
     - _Swung dash_ ⁓
+    - [Quotation dash](https://en.wikipedia.org/wiki/Quotation_mark#Quotation_dash) ―
   - [Quotation mark](https://en.wikipedia.org/wiki/Quotation_mark)
     - [Quotation marks in English](https://en.wikipedia.org/wiki/Quotation_mark#Quotation_marks_in_English)
       - ‘…’
@@ -23,6 +24,22 @@
   - [Whitespace character](https://en.wikipedia.org/wiki/Whitespace_character)
 - [Typography](https://en.wikipedia.org/wiki/Typography)
 - [Word divider](https://en.wikipedia.org/wiki/Word_divider)
+
+
+## Web typography
+
+- [Typography Handbook](http://typographyhandbook.com/)
+  - A short guide of a web typography practices.
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc)
+  - Classic typography guidelines for the modern world.
+
+
+## Books about typography
+
+- [Butterick’s Practical Typography](http://practicaltypography.com/)
+  - [Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
+  - Useful guidelines for a readable text content.
+
 
 
 ## Blogs about typography
