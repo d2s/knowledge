@@ -6,6 +6,15 @@
   - _“Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.”_
 
 
+## Examples
+
+- [Node Module Of The Week!](https://nmotw.in/)
+  - Little blog with examples of different Node.js modules.
+- [zeit/serve](https://github.com/zeit/serve)
+  - _“Static file serving and directory listing”_
+
+
+
 ## HTTP client
 
 - [request/request](https://github.com/request/request)

@@ -46,10 +46,19 @@
 - [If everything is a network, nothing is a network](https://visualisingadvocacy.org/blog/if-everything-network-nothing-network)
   - _“How the simplistic network diagram came to dominate our imagination and why we shouldn’t blindly go with the flow.”_
 
+
 ### People who create data visualizations
 
 - [Janne Aukia (@jaukia) | Twitter](https://twitter.com/jaukia)
 
+
+## Geodata
+
+- [CARTO](https://carto.com/)
+  - _“Predict through location”_
+  - _“Platform for discovering and predicting the key insights underlying the location data in our world.”_
+  - [@CARTO | Twitter](https://twitter.com/CARTO)
+    - Interesting map visualizations examples.
 
 
 
@@ -57,3 +66,17 @@
 
 - [Max Levchin on Trading Privacy for Value and the Quantified Self](http://blog.mixpanel.com/2016/05/17/max-levchin-quantified-self-and-privacy/)
   - _“And yet, the larger the quantities of data we collect, the larger the threat to personal privacy seems to grow.”_
+
+
+## Companies
+
+- [Diffbot](https://www.diffbot.com/)
+  - _“Web Data Extraction Using Artificial Intelligence”_
+    - _“Diffbot is a team of AI engineers building a universal database of structured information, to provide knowledge as a service to all intelligent applications.”_
+- [Mercury by Postlight](https://mercury.postlight.com/)
+  - _“Make your content work anywhere.”_
+  - _“Mercury transforms web pages into clean text. Publishers and programmers use it to make the web make sense, and readers use it to read any web article comfortably.”_
+
+
+
+  

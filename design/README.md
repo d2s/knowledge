@@ -92,3 +92,32 @@
 - [Design.blog | Design, Inclusion, +/- Tech](https://design.blog/)
   - [Julie Zhuo on the Lessons of Good Design | Design.blog](https://design.blog/2016/09/01/julie-zhuo-on-the-lessons-of-good-design/)
 - [Design Just Ate My Software: How Designers Are Leading the Product Revolution | ZURB Blog](http://zurb.com/article/1444/design-just-ate-my-software-how-designers)
+- [How to not suck at design, a 5 minute guide for the non-designer.](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037)
+  - Always put the most important content first.
+  - Use plenty of contrast to improve usability of the content.
+  - Align all the things with grid layout.
+  - Use large text size and enough of whitespace around it.
+  - Use a list view, if order is important.
+  - Design in black and white first, add color later.
+  - Create comfortable design.
+  - Color Palettes help.
+  - Use existing UI design conventions from Apple & Google.
+  - Remember, design takes practice.
+
+
+## Design portfolios
+
+- [Reinoud van Laar](http://reinoudvanlaar.nl/)
+  - _“a visual designer”_
+- [Cargo - Gallery](http://cargocollective.com/gallery)
+  - Featured portfolios from Cargo portfolio hosting service.
+- [iRaul/awesome-portfolios](https://github.com/iRaul/awesome-portfolios)
+  - 🎨 _“A curated list of Portfolio Websites.”_
+- [Bite](http://www.bitedigital.com/)
+  - Website design portfolio
+- [Hans Hack](http://hanshack.com/webwork.html)
+  - art & web development
+- [Maarten Lambrechts](http://www.maartenlambrechts.com/)
+  - _“Data journalist, dataviz trainer, keynote speaker”_
+- [Mitch Goldstein](http://www.mitchgoldstein.com/work/)
+  - typography, book & magazine cover design
