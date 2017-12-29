@@ -1,0 +1,24 @@
+{
+  "name": "knowledge",
+  "version": "1.0.0",
+  "description": "A curated list of Tools and Resources.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update-authors": "./scripts/update-authors.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2s/knowledge.git"
+  },
+  "keywords": [
+    "personal"
+  ],
+  "author": "Daniel Schildt",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/d2s/knowledge/issues"
+  },
+  "homepage": "https://github.com/d2s/knowledge#readme"
+}
