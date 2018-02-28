@@ -1,13 +1,23 @@
 # JavaScript / ECMAScript
 
-
-
 ## ECMAScript 6
 
+- Language Specification
+  - [ECMAScript® 2019 Language Specification](https://tc39.github.io/ecma262/)
+    - “ECMAScript was originally designed to be used as a scripting language, but has become widely used as a general-purpose programming language.”
+    - “ECMAScript is now a fully featured general-purpose programming language.”
+  - [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
+    - “The ECMAScript Language specification is a huge text that can be confusing and intimidating at first. This document aims to make it easier to get started with reading the best JavaScript language reference available.”
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) book written by Nicholas C. Zakas.
 - [ECMAScript 6: New Features](http://es6-features.org/) Overview of ES6 features with Comparison of how to do similar things with older ES5 version, if needed.
 - [ES6 Cheatsheet](https://es6cheatsheet.com/) ($)
   - _“9 sections and 31 code samples.”_
+
+
+## Data structures in ECMAScript
+
+- [Fear, trust and JavaScript: When types and functional programming fail - Reaktor](https://www.reaktor.com/blog/fear-trust-and-javascript/)
+  - “Many developers working with JavaScript borrow useful ideas from functional programming and strongly-typed programming languages to reduce fear by transferring trust from developers to tools and the code. Ideas like optional types, functional transformations, and immutability can all help to write better JavaScript. When pulling these ideas together in JavaScript, however, they come with severe trade-offs, work together poorly, and ultimately fail in the goal of effectively transferring trust from developers to code and tools.”
 
 
 ## Commonly used JavaScript libraries

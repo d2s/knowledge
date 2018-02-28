@@ -4,7 +4,8 @@
   - _“Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.”_
   - _“Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient.”_
   - _“Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.”_
-
+- [Installing Node.js for Linux & macOS with nvm](https://gist.github.com/d2s/372b5943bce17b964a79)
+  - A quick guide on how to setup Node.js development environment.
 
 ## Examples
 

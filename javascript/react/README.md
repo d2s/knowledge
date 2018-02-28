@@ -3,6 +3,25 @@
 - [React](https://facebook.github.io/react/)
   - _“A JavaScript library for building user interfaces”_
 
+## Introduction to React
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- [React Starter Kit](https://glitch.com/react-starter-kit)
+  - _“A free, 5-part video course with interactive code examples that will help you learn React.”_
+
+
+
+## Books
+
+- _TODO:_ Write a section about books related to React.
+
+
+
 
 ## Testing React.js apps
 
@@ -83,6 +102,15 @@
     - Services
     - Utils
 
+## Functional Components
+
+-[Learn to spot red flags in your React/JavaScript code](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4)
+-[Some Thoughts on Function Components in React – JavaScript Inside – Medium](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7)
+  - _“Functions First Approach”_
+
+### Libraries for working with functional components
+- [acdlite/recompose](https://github.com/acdlite/recompose)
+  - _“recompose - A React utility belt for function components and higher-order components.”_
 
 ## React routers
 
@@ -98,3 +126,8 @@
   - _“Awesome list of Redux examples and middlewares”_
 - [Redux DevTools Extension](https://github.com/zalmoxisus/redux-devtools-extension)
   - [Redux DevTools without Redux or how to have a predictable state with any architecture](https://medium.com/@zalmoxis/redux-devtools-without-redux-or-how-to-have-a-predictable-state-with-any-architecture-61c5f5a7716f)
+
+### Redux-Saga
+
+- [Redux-Saga](https://redux-saga.js.org/)
+  - `redux-saga` “is a library that aims to make application side effects (i.e. asynchronous things like data fetching and impure things like accessing the browser cache) easier to manage, more efficient to execute, simple to test, and better at handling failures.”

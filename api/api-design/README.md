@@ -22,7 +22,14 @@
   - _“At Etsy we have been doing some pioneering work with our Web APIs. We switched to API-first design, have experimented with concurrency handling in our composition layer, introduced strong typing into our API design, experimented with code generation, and built distributed tracing tools for API as part of this project.”_
 
 
+## Data type systems
 
+### Tools for helping with the data types for APIs
+
+- [quicktype](https://github.com/quicktype/quicktype)
+  - _“Generate types and converters from JSON, Schema, and GraphQL”_
+  - Supports:
+    - C#, Go, C++, Java, TypeScript, Rust, Swift, Objective-C, Elm, JSON Schema
 
 
 ## API documentation tools
