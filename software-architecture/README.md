@@ -3,6 +3,11 @@
 
 ## General purpose resources
 
+- [How to Design Programs](https://www.htdp.org/) (book)
+  - _“An Introduction to Programming and Computing”_
+  - [Prologue: How to Program](https://www.htdp.org/2018-01-06/Book/part_prologue.html)
+  - [How to Program Racket: a Style Guide](https://docs.racket-lang.org/style/index.html)
+    - Additional documentation about the programming language used in the book.
 - [Front-end Handbook](http://www.frontendhandbook.com/)
 
 
@@ -54,3 +59,12 @@
 - [etsy/hound](https://github.com/etsy/hound)
   - _“Lightning fast code searching made easy”_
 
+
+## Project templates
+
+- [audreyr/cookiecutter](https://github.com/audreyr/cookiecutter)
+  - _“A command-line utility that creates projects from cookiecutters (project templates).”_
+  - [Cookiecutter: Better Project Templates](https://cookiecutter.readthedocs.io/en/latest/)
+  - Many of the templates are clearly outdated, but might still give some ideas about how different ways there are to structure projects.
+- [swkBerlin/kata-bootstraps](https://github.com/swkBerlin/kata-bootstraps)
+  - _“Empty projects for different (programming) languages with a failing test”_
