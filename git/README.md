@@ -3,12 +3,17 @@
 
 ## Learning basics of Git
 
+### Documentation
+
+- [Git - Documentation](https://git-scm.com/doc)
+  - Official documentation.
+
+
+### Quick guides
+
 - [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-- [Code School courses about Git](https://www.codeschool.com/paths/git)
-  - [Try Git](https://www.codeschool.com/courses/try-git)
-    - _Learn how to use Git by reviewing the basic concepts of Git version control._
 - [Oh, sh*t, git!](http://ohshitgit.com/)
-  - Quick tips on how to revert your Git commits from problem situations. 
+  - Quick tips on how to revert your Git commits from problem situations.
 
 
 ## Improving productivity
@@ -24,5 +29,4 @@
 - GitHub
   - [GPG signature verification in GitHub](https://github.com/blog/2144-gpg-signature-verification)
   - [GitHub documentation about GPG signing](https://help.github.com/categories/gpg/)
-
 
