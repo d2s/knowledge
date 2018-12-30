@@ -93,6 +93,15 @@ are brought forth or produced.”_
   - [How remote work changed my life | by @mijustin](https://justinjackson.ca/remote/)
     - _“We live in the future”_
       - “Technology companies sometimes surprise me: we pride ourselves on using the latest gadgets, the latest software, the latest coding practices, and the latest development methodologies. And yet so many of these technology companies won’t trust this same technology to enable remote work.”
+- **Alan Jacobs**
+  - [my year in tech](https://blog.ayjay.org/my-year-in-tech/)
+    - Subheaders:
+      - _“Escaping Twitter”_
+      - _“Owning My Turf”_
+      - _“Writing By Hand”_
+      - _“Slower Listening”_
+      - _“Dumbing Down the Phone”_
+    - Date: 2015-12-23
 
 
 ## /now
@@ -106,7 +115,6 @@ are brought forth or produced.”_
   - [Marc Jenkins | What I’m doing now](https://marcjenkins.co.uk/now/)
   - [Garrick van Buren | What I’m Focused on Now](https://garrickvanburen.com/now/)
   - [sites with a /now page | nownownow.com](http://nownownow.com/)
-
 
 
 ## Life management
