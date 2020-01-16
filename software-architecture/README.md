@@ -11,13 +11,10 @@
 - [Front-end Handbook](http://www.frontendhandbook.com/)
 
 
-
 ## Back-end development
 
 - [futurice/backend-best-practices](https://github.com/futurice/backend-best-practices)
   - _An evolving description of general best practices for backend development._
-
-
 
 
 ## Blogs
@@ -40,12 +37,12 @@
   - Schema and formatting
   - Labels to Use
 
- 
 
 ## Systems engineering
 
-- [Kelsey Hightower - healthz: Stop reverse engineering applications and start monitoring from the inside](https://vimeo.com/173610242) (video)
-
+- [Kelsey Hightower - healthz](https://vimeo.com/173610242) (video)
+  - Presentation from Monitorama PDX 2016 conference.
+    - _“Stop reverse engineering applications and start monitoring from the inside”_
 
 
 ## Cloud computing

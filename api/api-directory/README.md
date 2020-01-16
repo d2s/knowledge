@@ -1,7 +1,6 @@
 # API directory
 
 
-
 ## Generic API lists
 
 - [An API for Everything by Product Hunt](https://www.producthunt.com/e/an-api-for-everything)

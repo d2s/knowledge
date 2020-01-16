@@ -12,7 +12,6 @@
 - [Trending CSS repositories on GitHub today](https://github.com/trending?l=css)
 
 
-
 ## CSS tips
 
 - [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
@@ -30,7 +29,6 @@
   - _“Front End Web Technologies, Chewed Up”_
 
 
-
 ## Presentations
 
 Good way to learn is to watch & read presentations.
@@ -40,8 +38,6 @@ Good way to learn is to watch & read presentations.
   - _This is a collection of well-received talks about CSS, covering topics such as CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more._
 - [@mdo-ular CSS](https://speakerdeck.com/mdo/at-mdo-ular-css) by Mark Otto
   - _“Ten guidelines for how and why I write CSS the way I do with practical examples.”_
-
-
 
 
 ## Guidelines
@@ -80,8 +76,6 @@ Good way to learn is to watch & read presentations.
     - “A collection of pre-alpha modules to form the new, improved inuitcss”
 
 
-
-
 ### CSS namespaces
 
 - [css-modules](https://github.com/css-modules/css-modules)
@@ -89,15 +83,12 @@ Good way to learn is to watch & read presentations.
 - [css-ns](https://www.npmjs.com/package/css-ns)
   - CSS namespaces generator written in JavaScript
 
-
-
 ## CSS libraries
 
 - [Hint.css - A tooltip library in CSS](http://kushagragour.in/lab/hint/)
 - [lollipop.css - Android lollipop animations in CSS](http://kushagragour.in/lab/lollipop.css/)
 - [Font Awesome](http://fontawesome.io/)
   - _“the iconic font and CSS toolkit”_
-
 
 
 ## CSS frameworks

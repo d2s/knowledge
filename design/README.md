@@ -1,12 +1,10 @@
 # Design
 
 
-
 ## Brand identity
 
 - [A List Apart Articles about Brand Identity](http://alistapart.com/topic/brand-identity)
   - “Your logo is not your brand. Brand is a nexus of consumer perceptions and emotions about your company and its products. Logo design, identity design, branding, content strategy, copywriting, customer relations, and the actual quality of your product work together to create your brand. Where does the web design team fit in? Brand identity development as it relates to the web. Identity systems and brand development.”
-
 
 
 ## Design Process
@@ -35,12 +33,10 @@
   - _“If there is one thing that will stand the test of time, it’s thumb placement on mobile devices. This makes consideration of the “thumb zone“, a term coined in Steven Hoober’s research, an important factor in the design and development of mobile interfaces.”_
 
 
-
 ## Static site generators
 
 - [In defense of static sites](https://speakerdeck.com/feministy/in-defense-of-static-sites) (presentation)
   - _“Static sites serve a purpose, and they're really important pieces of the web's history and its future. Static doesn't mean forever unchanged and it doesn't mean you're stuck with a dead site that you can never update. Quite frankly, static sites have gotten a bad reputation and it's not their fault: we've all been so distracted by shiny new things to remember their virtues. I'll revisit what it means to build a static site, what the use cases are, how you know its the right technical choice, what tools to use, and when to scale up to something more complex.”_
-
 
 
 ## Algorithms in an data-informed design process
@@ -84,7 +80,6 @@
   - _“Product Design & Frontend Development Newsletter & Magazine & Podcast”_
 - [15 Web Design Podcasts](https://www.shopify.com/partners/blog/114348998-15-web-design-podcasts-you-need-to-listen-to-in-2016)
   - _“Happy listening!”_
-
 
 
 ## Articles

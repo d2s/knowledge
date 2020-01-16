@@ -7,7 +7,6 @@
   - _“Ways We Work is a digital publication focused on telling stories and getting first-hand accounts of how people do the work they love.”_
 
 
-
 ## Blog posts
 
 - Zach Holman
@@ -22,14 +21,11 @@
     - Async and open
 
 
-
-
 ## Project planning
 
 - [Google re:Work](https://rework.withgoogle.com/)
   - [Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/)
     - “Studies have shown that committing to a goal can help improve employee performance. But more specifically, research reveals that setting challenging and specific goals can further enhance employee engagement in attaining those goals. Google often uses _“Objectives and Key Results”_ (OKRs) to try to set ambitious goals and track progress.”
-
 
 
 ## Apple
@@ -43,7 +39,6 @@
       - 2. “What Apple considers a “match” often isn’t.”
       - 3. “Although I could click the little cloud icon next to each song title and “get it back” from Apple, their servers aren’t fast enough to make it an easy task.”
       - 4. “Should I choose to reclaim my songs via download, the files I would get back would not necessarily be the same as my original files.”
-
 
 
 ## Nokia

@@ -1,16 +1,11 @@
 # API usage & development
 
 
-
-
 ## Automation tools using APIs
 
 - [IFTTT](https://ifttt.com/)
 - [Zapier](https://zapier.com/)
   - _“Connect the apps you use, automate tasks, get more out of your data.”_
-
-
-
 
 
 ## Parse alternatives
@@ -25,7 +20,6 @@ others also started to document their progress on finding alternatives.
 
 - [relatedcode/ParseAlternatives](https://github.com/relatedcode/ParseAlternatives)
   - _A collaborative list of Parse alternative backend service providers._
-
 
 
 ## Performance testing

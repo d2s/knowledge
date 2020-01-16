@@ -1,6 +1,6 @@
 # Events
 
-Event related resources.
+Events related resources.
 
 
 ## Lists of events
@@ -15,5 +15,3 @@ Event related resources.
   - One of the most popular platforms for community organized events.
 - [Eventbrite](https://www.eventbrite.com/)
   - Useful for handling ticket reservations of events, but not so useful as the event discovery methods are lacking behind other services.
-- [Meetabit](https://meetabit.com/)
-  - Focused on tech-related events in Finland. Helpful list of Communities to enable you to find more from elsewhere.

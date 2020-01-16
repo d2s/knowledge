@@ -1,7 +1,6 @@
 # Typography
 
 
-
 ## Wikipedia articles about typography
 
 - Commonly used symbols
@@ -40,7 +39,6 @@
 - [Butterick’s Practical Typography](http://practicaltypography.com/)
   - [Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
   - Useful guidelines for a readable text content.
-
 
 
 ## Blogs about typography

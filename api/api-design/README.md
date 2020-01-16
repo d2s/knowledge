@@ -15,7 +15,6 @@
   - [Architectural Styles and the Design of Network-based Software Architectures (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/fielding_dissertation.pdf) _(by Roy Fielding)_
 
 
-
 ## Articles
 
 - [API First Transformation at Etsy – Concurrency](https://codeascraft.com/2016/09/06/api-first-transformation-at-etsy-concurrency/)
@@ -40,8 +39,6 @@
   - Write code samples in multiple languages
   - Out-of-the-box syntax highlighting for almost 60 languages, no configuration required.
   - Automatic, smoothly scrolling table of contents
-
-
 
 
 ## People

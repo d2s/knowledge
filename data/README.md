@@ -1,7 +1,6 @@
 # Data
 
 
-
 ## Algorithms
 
 - [The Black Box Society — Frank Pasquale | Harvard University Press](http://www.hup.harvard.edu/catalog.php?isbn=9780674368279)
@@ -16,7 +15,6 @@
   - “Algorithms are driving the world. We are information. Everything is code. We are becoming dependent upon and even merging with our machines. Advancing the rights of the individual in this vast, complex network is difficult and crucial.”
 
 
-
 ## Research
 
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
@@ -25,7 +23,6 @@
   - [Search results: image captioning](http://www.arxiv-sanity.com/search?q=image+captioning)
   - [Search results: deep reinforcement learning](http://www.arxiv-sanity.com/search?q=deep+reinforcement+learning)
   - [Search results: "personal data"](http://www.arxiv-sanity.com/search?q=%22personal+data%22)
-
 
 
 ## Open Data
@@ -59,7 +56,6 @@
   - _“Platform for discovering and predicting the key insights underlying the location data in our world.”_
   - [@CARTO | Twitter](https://twitter.com/CARTO)
     - Interesting map visualizations examples.
-
 
 
 ## Data privacy
