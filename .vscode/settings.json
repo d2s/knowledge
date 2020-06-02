@@ -1,0 +1,43 @@
+{
+  "eslint.packageManager": "yarn",
+  "files.exclude": {
+    ".cache/": true,
+    "yarn-error.log": true,
+    "node_modules/": true
+  },
+  "markdownlint.config": {
+    "default": true,
+    "MD003": {
+      "style": "atx"
+    },
+    "MD012": false,
+    "MD025": false,
+    "MD033": false,
+    "MD041": false
+  },
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.tslint": true,
+    "source.fixAll.stylelint": true
+  },
+  "[html]": {
+    "editor.formatOnSave": false
+  },
+  "[njk]": {
+    "editor.formatOnSave": false
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

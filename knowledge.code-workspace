@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "javascript.validate.enable": false,
+    "css.trace.server": "off",
+    "gitlens.advanced.telemetry.enabled": false,
+    "html.trace.server": "off",
+    "json.trace.server": "off",
+    "markdown.trace": "off",
+    "screencastMode.onlyKeyboardShortcuts": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false
+  }
+}
