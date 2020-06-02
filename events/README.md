@@ -2,12 +2,10 @@
 
 Events related resources.
 
-
 ## Lists of events
 
 - [Front-End Conferences](https://github.com/frontendfront/front-end-conferences)
   - _This is a list of upcoming front-end related conferences._
-
 
 ## Event organizing services
 

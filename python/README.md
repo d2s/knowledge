@@ -4,10 +4,7 @@
 - [Python (in GitHub)](https://github.com/python)
 - [Trending Python repositories on GitHub today](https://github.com/trending?l=python)
 
-
-
 ## Code quality
-
 
 ### Code quality improvement
 
@@ -15,18 +12,12 @@
   - Automated code review & repair for Python.
     - _Let's fix issues instead of just reporting them._
 
-
-
 ## API development with Python
-
 
 ### OpenAPI
 
 - [zalando/connexion](https://github.com/zalando/connexion)
   - _“Python Flask Framework to automagically handle REST API requests based on OpenAPI”_
-
-
-
 
 ### GraphQL
 

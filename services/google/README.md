@@ -1,12 +1,8 @@
 # Google
 
-
 ## Status dashboards
 
 - [Google Apps Status Dashboard](https://www.google.com/appsstatus#hl=en&v=status)
-
-
-
 
 ## Alphabetical list of Google services and companies
 
@@ -19,14 +15,11 @@
 - [AdMob](https://www.google.com/admob/)
 - [Alerts](https://www.google.com/alerts)
 
-
 ### B
+
 - [Blogger](http://www.blogger.com/)
 - [Boston Dynamics](http://www.bostondynamics.com/)
 - [Books](https://books.google.com/)
-
-
-
 
 ### C
 
@@ -38,11 +31,6 @@
 - [Google Code Project Hosting](https://code.google.com/)
   - Google Code Project Hosting offered a free collaborative development environment for open source projects. (The service was [shut down](http://google-opensource.blogspot.fi/2015/03/farewell-to-google-code.html) in 2016.)
 
-
-
-
-
-
 ### D
 
 - [Drive](https://www.google.com/drive/)
@@ -52,9 +40,6 @@
 - [Google Developers](https://developers.google.com/)
   - Tools to help you develop your app and grow it into a business
 
-
-
-
 ### E
 
 - [Earth](https://earth.google.com/)
@@ -62,10 +47,8 @@
   - Overnight delivery on everything
     - ... stores delivered to your door
 
-
-
-
 ### F
+
 - [Fiber](https://fiber.google.com/)
 - [Fi](http://qz.com/389094/all-the-reasons-you-wont-be-signing-up-for-googles-new-project-fi-wireless-service/)
 - [Flights](https://www.google.com/flights/)
@@ -73,32 +56,25 @@
 - [Firebase](https://www.firebase.com/)
 - [Finance](http://www.google.com/finance)
 
-
-
-
-
 ### G
+
 - [Google Search](https://www.google.com)
 - [Gmail](http://www.gmail.com)
 - [Google Glass](https://www.google.com/glass/)
 - [Groups](https://groups.google.com/)
 
-
-
-
 ### H
+
 - [Hangouts](https://plus.google.com/hangouts)
 
-
-
-
 ### I
+
 - [Images](https://images.google.com/)
 - [Ingress](https://www.ingress.com/)
   - The world around you is not what it seems.
-  - Ingress.  The game.
+  - Ingress. The game.
     - It's happening all around you. They aren't coming. They're already here.
-  - [Ingress (video game) - Wikipedia article](https://en.wikipedia.org/wiki/Ingress_(video_game))
+  - [Ingress (video game) - Wikipedia article](<https://en.wikipedia.org/wiki/Ingress_(video_game)>)
     - Ingress is an augmented-reality massively multiplayer online location-based game created by Niantic, Inc.
 - [Inbox](http://www.google.com/inbox/)
 - [Invite Media](http://www.invitemedia.com/)
@@ -113,21 +89,16 @@
     - Streamline your workflow with a platform designed for speed and efficiency
     - Leverage the technology, expertise and resources of a proven partner
 
-
-
 ### J
+
 - [Jump](https://www.google.com/get/cardboard/jump/)
 
-
-
-
 ### K
+
 - [Keep](http://www.google.com/keep/)
 
-
-
-
 ### L
+
 - [Local](http://www.google.com/+/learnmore/local/)
 - [Loon](http://www.google.com/loon/)
   - Balloon-powered internet for everyone
@@ -135,11 +106,8 @@
     - What is Project Loon?
       - Many of us think of the internet as a global community. But two-thirds of the world’s population does not yet have internet access. Project Loon is a network of balloons traveling on the edge of space, designed to connect people in rural and remote areas, help fill coverage gaps, and bring people back online after disasters.
 
-
-
-
-
 ### M
+
 - [Maps](http://www.google.com/maps)
   - [Google Maps APIs | Google Developers](https://developers.google.com/maps/)
     - [Google Maps JavaScript API](https://developers.google.com/maps/documentation/javascript/)
@@ -150,24 +118,19 @@
   - Makani was founded in 2006 by Corwin Hardham, Don Montague, and Saul Griffith to harness untapped wind resources more efficiently. At the time, Makani was also part of the Department of Energy’s Advanced Research Projects Agency (ARPA-E), designing and testing our 20 kW energy kite prototype.
   - Over the first five years of development, and thousands of hours of field testing, the energy kite evolved from a fabric kite powering a generator on the ground to a high-performance kite with on-board power generation. In May 2013, Makani was acquired by Google and is now working within the Google [x] team to make energy kites and widespread clean energy a commercial reality.
 
-
-
-
 ### N
+
 - [Nexus](http://www.google.com/nexus/)
 - [News](http://news.google.com/)
 - [Now](https://www.google.com/landing/now/)
 - [Nest](https://nest.com/)
 
-
-
 ### O
+
 - [Offers](https://plus.google.com/+GoogleOffers)
 
-
-
-
 ### P
+
 - [Google+ (Google Plus)](https://plus.google.com/)
 - [Google Play](https://play.google.com)
 - [Photos](https://photos.google.com/)
@@ -176,27 +139,19 @@
 - [Google Patents](https://patents.google.com/)
   - Search and read the full text of patents from around the world.
 
-
-
-
-
 ### Q
+
 - [Google Nexus Q](http://www.engadget.com/products/google/nexus/q/)
   - Google's mysterious little social streamer
 
-
-
-
 ### R
+
 - [Research at Google](https://research.google.com/)
 - [Refine](https://code.google.com/p/google-refine/)
 - [reCaptcha](https://www.google.com/recaptcha)
 
-
-
-
-
 ### S
+
 - [Search](http://www.google.com)
 - [Self-driving car](http://www.google.com/selfdrivingcar/)
 - [Shopping](http://www.google.com/shopping)
@@ -218,10 +173,8 @@
     - [Use Google Scholar Effectively for Research](http://www.library.illinois.edu/ugl/howdoi/use_google_scholar.html) (2013)
     - [Google Scholar as a new data source for citation analysis](http://www.harzing.com/publications/white-papers/google-scholar-a-new-data-source-for-citation-analysis) (2008)
 
-
-
-
 ### T
+
 - [Translate](http://translate.google.com)
 - [Project Tango](https://www.google.com/atap/project-tango/)
   - Project Tango's Development Kit is equipped with technology that allows it to understand space and motion. Let's build something amazing together.
@@ -230,49 +183,38 @@
     - Precise Measurements
     - Indoor Wayfinding
 
-
-
-
 ### U
+
 - [URL shortener](https://goo.gl/)
 
-
-
-
 ### V
+
 - [Voice](https://www.google.com/voice)
 - [Ventures](https://www.gv.com/)
 - [VirusTotal](https://www.virustotal.com/)
 - [Google Videos](https://www.google.com/videohp)
 
-
-
-
 ### W
+
 - [Wear](https://www.android.com/wear/)
 - [Wallet](https://www.google.com/wallet/)
 - [Web Toolkit](http://www.gwtproject.org/)
 - [Wing](https://www.youtube.com/watch?v=cRTNvWcx9Oo)
   - Project Wing is a Google[x] project that is developing a delivery system that uses self-flying vehicles.
 
-
-
-
 ### X
+
 - [X](https://www.solveforx.com/)
   - X – The Moonshot Factory
   - [Astro Teller | Biography](http://www.astroteller.net/)
     - Dr. Astro Teller currently oversees [X], Alphabet’s moonshot factory for building magical, audacious ideas that through science and technology can be brought to reality.
 
-
-
-
 ### Y
+
 - [YouTube](https://www.youtube.com/)
 
-
-
 ### Z
+
 - [Project Zero](https://googleprojectzero.blogspot.fi/2014/07/announcing-project-zero.html)
   - Security research team at Google.
 - [Zagat](https://www.zagat.com/)

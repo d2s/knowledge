@@ -5,20 +5,18 @@ having exchange value
 are brought forth or produced.”_  
 – [Dictionary](http://dictionary.reference.com/browse/productivity)
 
-
 ## Time management methods
 
 - [Systemist: A modern productivity workflow](https://blog.todoist.com/user-stories/systemist-personal-workflow/)
-  - 1) Take it everywhere
-  - 2) Capture everything
-  - 3) Break it up in small tasks and make them actionable
-  - 4) Prioritize
-  - 5) Get to to-do list zero daily
-  - 6) Get consistent feedback
+  - 1. Take it everywhere
+  - 2. Capture everything
+  - 3. Break it up in small tasks and make them actionable
+  - 4. Prioritize
+  - 5. Get to to-do list zero daily
+  - 6. Get consistent feedback
   - Bonus tips:
     - Managing emails
-    - Managing chat 
-
+    - Managing chat
 
 ## Articles
 
@@ -81,7 +79,7 @@ are brought forth or produced.”_
   - [My writing by Belle](https://larder.io/public/belle/my-writing/)
 - **Kyle Mathews**
   - [The problem of too general tools](https://www.bricolage.io/problem-too-general-tools/)
-    - _“… if you want an individual to choose to use your software, you have to solve their specific problem well.”_ 
+    - _“… if you want an individual to choose to use your software, you have to solve their specific problem well.”_
   - [Building your own tools](https://www.bricolage.io/building-your-own-tools/)
 - **Todoist**
   - [Why Single-Tasking Is Your Greatest Competitive Advantage (Plus 19 Ways To Actually Do It)](https://blog.todoist.com/2015/09/01/why-single-tasking-is-your-greatest-competitive-advantage-plus-19-ways-to-actually-do-it/)
@@ -103,7 +101,6 @@ are brought forth or produced.”_
       - _“Dumbing Down the Phone”_
     - Date: 2015-12-23
 
-
 ## /now
 
 - [The /now page movement | Derek Sivers](https://sivers.org/nowff)
@@ -116,9 +113,7 @@ are brought forth or produced.”_
   - [Garrick van Buren | What I’m Focused on Now](https://garrickvanburen.com/now/)
   - [sites with a /now page | nownownow.com](http://nownownow.com/)
 
-
 ## Life management
 
 - [Unclutterer](https://unclutterer.com/)
   - _“Daily tips on organizing and tidying up your home and office.”_
-

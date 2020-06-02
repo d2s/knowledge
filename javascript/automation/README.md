@@ -1,7 +1,5 @@
 # Automation with JavaScript
 
-
-
 ## Automation tools written in JavaScript
 
 - [Shipit](https://github.com/shipitjs/shipit)

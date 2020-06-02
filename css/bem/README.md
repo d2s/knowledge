@@ -1,6 +1,5 @@
 # BEM
 
-
 ## Documentation
 
 - [BEM — Block Element Modifier](http://getbem.com/)

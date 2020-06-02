@@ -1,6 +1,5 @@
 # Data
 
-
 ## Algorithms
 
 - [The Black Box Society — Frank Pasquale | Harvard University Press](http://www.hup.harvard.edu/catalog.php?isbn=9780674368279)
@@ -14,7 +13,6 @@
 - [The Future of Work? The Robot Takeover is Already Here — Medium](https://medium.com/@jannaq/the-robot-takeover-is-already-here-5aa55e1d136a#.nl4ucvb20)
   - “Algorithms are driving the world. We are information. Everything is code. We are becoming dependent upon and even merging with our machines. Advancing the rights of the individual in this vast, complex network is difficult and crucial.”
 
-
 ## Research
 
 - [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
@@ -23,7 +21,6 @@
   - [Search results: image captioning](http://www.arxiv-sanity.com/search?q=image+captioning)
   - [Search results: deep reinforcement learning](http://www.arxiv-sanity.com/search?q=deep+reinforcement+learning)
   - [Search results: "personal data"](http://www.arxiv-sanity.com/search?q=%22personal+data%22)
-
 
 ## Open Data
 
@@ -37,17 +34,14 @@
     - _Engaging around the concepts, standards and tooling and building a community of users and contributors._
     - _This project is a community-driven effort of Open Knowledge Labs._
 
-
 ## Data visualization
 
 - [If everything is a network, nothing is a network](https://visualisingadvocacy.org/blog/if-everything-network-nothing-network)
   - _“How the simplistic network diagram came to dominate our imagination and why we shouldn’t blindly go with the flow.”_
 
-
 ### People who create data visualizations
 
 - [Janne Aukia (@jaukia) | Twitter](https://twitter.com/jaukia)
-
 
 ## Geodata
 
@@ -57,12 +51,10 @@
   - [@CARTO | Twitter](https://twitter.com/CARTO)
     - Interesting map visualizations examples.
 
-
 ## Data privacy
 
 - [Max Levchin on Trading Privacy for Value and the Quantified Self](http://blog.mixpanel.com/2016/05/17/max-levchin-quantified-self-and-privacy/)
   - _“And yet, the larger the quantities of data we collect, the larger the threat to personal privacy seems to grow.”_
-
 
 ## Companies
 
@@ -72,7 +64,3 @@
 - [Mercury by Postlight](https://mercury.postlight.com/)
   - _“Make your content work anywhere.”_
   - _“Mercury transforms web pages into clean text. Publishers and programmers use it to make the web make sense, and readers use it to read any web article comfortably.”_
-
-
-
-  

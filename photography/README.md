@@ -1,7 +1,5 @@
 # Photography
 
-
-
 ## Photography portfolios
 
 - [Niall McDiarmid Photographer](http://www.niallmcdiarmid.com/)

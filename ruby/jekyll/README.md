@@ -1,12 +1,9 @@
 # Jekyll
 
-
 ## GitHub Pages
 
 - [GitHub Pages now faster and simpler with Jekyll 3.0](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0)
   - Published: 2016-02-01
-
-
 
 ## Documentation
 
@@ -18,25 +15,12 @@
   - List of all Markdown extensions available via kramdown text parser.
   - Includes extensions that help with academic writing.
 
-
-
-
-
-
-
-
-
-
 ## Themes
 
 - [cfpb/DOCter](https://github.com/cfpb/DOCter)
   - A Jekyll template for project documentation
 - [18F Guides template for Jekyll](https://pages.18f.gov/guides-template/)
   - [18F Guides Template style elements, derived from CFPB/DOCter](https://github.com/18F/guides-style)
-
-
-
-
 
 ## Extending the site
 

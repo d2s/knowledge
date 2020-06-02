@@ -4,7 +4,6 @@
 A design system is a living, funded product with a roadmap & backlog, serving an ecosystem.”  
 — [Nathan Curtis](https://twitter.com/nathanacurtis/status/656829204235972608)
 
-
 ## Atomic design
 
 - [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
@@ -20,14 +19,12 @@ A design system is a living, funded product with a roadmap & backlog, serving an
     - Maintaining Design Systems
       - _“Managing living design systems”_
 
-
 ## Website styleguides
 
 - [styleguides.io - Website Style Guide Resources](http://styleguides.io/)
   - Articles, Books, Podcasts, Talks, Tools, Examples
 - [edX Pattern Library](http://ux.edx.org/)
   - “The Visual, UI, and Front End styleguide for edX's applications”
-
 
 ## Print design
 

@@ -26,10 +26,7 @@
   - Gmail 'Oops' error troubleshooter
   - Sent message bounce troubleshooter
 
-
-
 ## Monitoring infrastructure
-
 
 ### Alert management
 
@@ -42,7 +39,3 @@
   - _“Reactive Security Mechanisms”_
   - _“Proactive Security Mechanisms”_
   - _“Incident Response”_
-
-
-
-

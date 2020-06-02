@@ -1,6 +1,5 @@
 # Robots
 
-
 ## Robot operating systems
 
 - [ROS.org | Powering the world's robots](http://www.ros.org/)
@@ -9,7 +8,6 @@
     - _“1,840 people have contributed to ROS’ 10 million lines of code,  
       averaging 20 commits per day.”_
     - IEEE Spectrum magazine reposted the blog post: [ROS, the Robot Operating System, Is Growing Faster Than Ever, Celebrates 8 Years - IEEE Spectrum](http://spectrum.ieee.org/automaton/robotics/robotics-software/ros-robot-operating-system-celebrates-8-years)
-
 
 ## Robots in war
 

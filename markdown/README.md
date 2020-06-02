@@ -2,7 +2,6 @@
 
 _Markdown is an easy-to-read, easy-to-write syntax for formatting plain text._
 
-
 ## Markdown in GitHub
 
 - [GitHub Help - Categories: Writing on GitHub](https://help.github.com/categories/writing-on-github/)
@@ -19,7 +18,6 @@ _Markdown is an easy-to-read, easy-to-write syntax for formatting plain text._
     - [Autolinked references and URLs](https://help.github.com/articles/autolinked-references-and-urls/)
       - _References to URLs, issues, pull requests, and commits are automatically shortened and converted into links._
 
-
 ## Kramdown (Markdown parser)
 
 - [HTML Converter | kramdown](http://kramdown.gettalong.org/converter/html.html)
@@ -28,9 +26,6 @@ _Markdown is an easy-to-read, easy-to-write syntax for formatting plain text._
     - Automatic Syntax Highlighting
     - Math Support
     - Footnotes
-
-
-
 
 ## Academic Markdown
 

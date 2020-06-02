@@ -2,7 +2,6 @@
 
 _Sass is the most mature, stable, and powerful professional grade CSS extension language in the world._
 
-
 ## Documentation
 
 - [Sass (Official website)](http://sass-lang.com/)
@@ -15,7 +14,6 @@ _Sass is the most mature, stable, and powerful professional grade CSS extension 
     - Mixins
     - Inheritance
     - Operators
-
 
 ## Meetups
 

@@ -2,7 +2,6 @@
 
 _Usability is the ease of use and learnability of a human-made object._
 
-
 ## Planning
 
 - [The KJ-Technique: A Group Process for Establishing Priorities UX Articles by UIE](https://articles.uie.com/kj_technique/)
@@ -20,12 +19,10 @@ _Usability is the ease of use and learnability of a human-made object._
   - Reaching Consensus in Record Time
     - _“The KJ-Method is such a valuable tool that we sometimes wonder how we’d ever get our job done without it.”_
 
-
 ## Usability testing
 
 - [How to Validate Demand with User Research - Justinmind](http://blog.justinmind.com/validate-demand-with-user-research/)
   - “The use of high-fidelity interactive wireframes and prototypes with usability testing is an effective way of getting feedback, [but] you need to do it the right way.”
-
 
 ## Twitter accounts
 

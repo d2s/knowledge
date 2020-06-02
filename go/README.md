@@ -2,7 +2,6 @@
 
 “programming language”
 
-
 ## Documentation
 
 - [Documentation - The Go Programming Language](https://golang.org/doc/)
@@ -12,14 +11,12 @@
   - [golang/tour](https://github.com/golang/tour)
     - Source code for _“A Tour of Go”_
 
-
 ### Testing frameworks
 
 - [Ginkgo](https://onsi.github.io/ginkgo/)
   - _“Ginkgo is a BDD-style Go testing framework”_
 - [Gomega](https://onsi.github.io/gomega/)
   - _“Gomega is a matcher/assertion library. It is best paired with the Ginkgo BDD test framework, but can be adapted for use in other contexts too.”_
-
 
 ### Templating with Go
 
@@ -28,7 +25,6 @@
 - [Introduction to Hugo Templating | Hugo](https://gohugo.io/templates/introduction/)
   - _“Hugo uses Go’s `html/template` and `text/template` libraries as the basis for the templating.”_
 
-
 ### Package search
 
 - [GoDoc](https://godoc.org/)
@@ -36,16 +32,13 @@
 - [GitHub Search · language:Go](https://github.com/search?utf8=%E2%9C%93&q=language%3AGo&type=Repositories&ref=advsearch&l=Go&l=)
   - Search the GitHub repositories where the main language is detected to be Go.
 
-
 ### Workshops
 
 - [campoy/go-tooling-workshop](https://github.com/campoy/go-tooling-workshop)
   - _“Go Tooling in Action”_
     - _“A workshop covering all the tools gophers use in their day to day life”_
 
-
 ## Events
 
 - [Helsinki Gophers](https://www.meetup.com/Helsinki-Gophers/)
   - _“Helsinki Gophers is a community for people who are interested in Go programming language.”_
-

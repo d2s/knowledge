@@ -1,6 +1,5 @@
 # Typography
 
-
 ## Wikipedia articles about typography
 
 - Commonly used symbols
@@ -25,7 +24,6 @@
 - [Typography](https://en.wikipedia.org/wiki/Typography)
 - [Word divider](https://en.wikipedia.org/wiki/Word_divider)
 
-
 ## Web typography
 
 - [Typography Handbook](http://typographyhandbook.com/)
@@ -33,13 +31,11 @@
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc)
   - Classic typography guidelines for the modern world.
 
-
 ## Books about typography
 
 - [Butterick’s Practical Typography](http://practicaltypography.com/)
   - [Summary of key rules](http://practicaltypography.com/summary-of-key-rules.html)
   - Useful guidelines for a readable text content.
-
 
 ## Blogs about typography
 

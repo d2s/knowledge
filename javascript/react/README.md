@@ -5,23 +5,12 @@
 
 ## Introduction to React
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 - [React Starter Kit](https://glitch.com/react-starter-kit)
   - _“A free, 5-part video course with interactive code examples that will help you learn React.”_
-
-
 
 ## Books
 
 - _TODO:_ Write a section about books related to React.
-
-
-
 
 ## Testing React.js apps
 
@@ -35,7 +24,6 @@
   - Track project code coverage with Jest
   - Use Jest's Interactive Watch Mode
 
-
 ## React components
 
 ### Navigation
@@ -43,8 +31,6 @@
 - [React Headroom](https://kyleamathews.github.io/react-headroom/)
   - _“a React Component to hide/show your header on scroll.”_
   - [KyleAMathews/react-headroom](https://github.com/KyleAMathews/react-headroom)
-
-
 
 ### Data Visualization
 
@@ -59,7 +45,6 @@
       - Composable
       - Native Support for Android and iOS platforms with an identical API.
 
-
 ### Visual styles
 
 - [Radium](https://formidable.com/open-source/radium/)
@@ -69,25 +54,18 @@
     - Browser state styles to support :hover, :focus, and :active Media queries
     - Automatic vendor prefixing
     - Keyframes animation helper
-    - ES6 class and createClass support 
+    - ES6 class and createClass support
   - [FormidableLabs/radium](https://github.com/FormidableLabs/radium)
-
 
 ### Style guide generators
 
 - [pocotan001/react-styleguide-generator](https://github.com/pocotan001/react-styleguide-generator)
   - _“Easily generate a good-looking styleguide by adding some documentation to your React project.”_
 
-
-
-
 ### Static site generators
 
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
   - _“Transform plain text into dynamic blogs and websites using React.js”_
-
-
-
 
 ## Development guidelines
 
@@ -104,11 +82,12 @@
 
 ## Functional Components
 
--[Learn to spot red flags in your React/JavaScript code](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4)
--[Some Thoughts on Function Components in React – JavaScript Inside – Medium](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7)
-  - _“Functions First Approach”_
+-[Learn to spot red flags in your React/JavaScript code](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4) -[Some Thoughts on Function Components in React – JavaScript Inside – Medium](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7)
+
+- _“Functions First Approach”_
 
 ### Libraries for working with functional components
+
 - [acdlite/recompose](https://github.com/acdlite/recompose)
   - _“recompose - A React utility belt for function components and higher-order components.”_
 
@@ -116,7 +95,6 @@
 
 - [reactjs/react-router](https://github.com/reactjs/react-router)
   - _“A complete routing library for React”_
-
 
 ## Redux
 

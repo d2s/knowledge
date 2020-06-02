@@ -10,15 +10,13 @@
     - “The ECMAScript Language specification is a huge text that can be confusing and intimidating at first. This document aims to make it easier to get started with reading the best JavaScript language reference available.”
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) book written by Nicholas C. Zakas.
 - [ECMAScript 6: New Features](http://es6-features.org/) Overview of ES6 features with Comparison of how to do similar things with older ES5 version, if needed.
-- [ES6 Cheatsheet](https://es6cheatsheet.com/) ($)
+- [ES6 Cheatsheet](https://es6cheatsheet.com/) (\$)
   - _“9 sections and 31 code samples.”_
-
 
 ## Data structures in ECMAScript
 
 - [Fear, trust and JavaScript: When types and functional programming fail - Reaktor](https://www.reaktor.com/blog/fear-trust-and-javascript/)
   - “Many developers working with JavaScript borrow useful ideas from functional programming and strongly-typed programming languages to reduce fear by transferring trust from developers to tools and the code. Ideas like optional types, functional transformations, and immutability can all help to write better JavaScript. When pulling these ideas together in JavaScript, however, they come with severe trade-offs, work together poorly, and ultimately fail in the goal of effectively transferring trust from developers to code and tools.”
-
 
 ## Commonly used JavaScript libraries
 
@@ -36,8 +34,6 @@
     - [Why Curry Helps](https://web.archive.org/web/20140714014530/http://hughfdjackson.com/javascript/why-curry-helps)
       - Introduction to _what is currying_.
 
-
-
 ## Quality improvement
 
 - [JavaScript Standard Style](http://standardjs.com/)
@@ -47,7 +43,6 @@
     - _Catch style errors before they're submitted in PRs. Saves precious code review time by eliminating back-and-forth between maintainer and contributor._
   - [List of extensions](http://standardjs.com/awesome.html) to integrate automatic style checking to other tools. On the end of page, there are also alternative syntax checkers based on the same tool.
   - [feross/standard](https://github.com/feross/standard) (GitHub repository)
-
 
 ### TypeScript
 
@@ -63,8 +58,6 @@
   - _“The TypeScript Definition Manager”_
   - _“Typings is the simple way to manage and install TypeScript definitions.”_
 
-
-
 ## Presentations
 
 Good way to learn is to watch & read presentations.
@@ -74,10 +67,7 @@ Good way to learn is to watch & read presentations.
 - [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
   - _“Must-watch videos about JavaScript”_
 
-
-
 ## JavaScript tips
-
 
 ### jQuery
 
@@ -85,13 +75,10 @@ Good way to learn is to watch & read presentations.
   - Native JavaScript features compared to jQuery.
 - [jQuery Tips Everyone Should Know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 
-
 ### Regular Expressions
 
 - [regex.party](http://regex.party/)
   - _“Regular expressions are tiny programs that look for patterns in text.”_
-
-
 
 ## Blogs
 
@@ -100,16 +87,12 @@ Good way to learn is to watch & read presentations.
   - [Doing Science On The Web](https://infrequently.org/2015/08/doing-science-on-the-web/)
     - _“This post is about vendor prefixes, why they didn’t work, and why it’s toxic not to be able to launch experimental features.”_
 
-
-
 ## JavaScript libraries
 
 - [Lodash](https://lodash.com/) _makes JavaScript easier by taking the hassle out of working with arrays, numbers, objects, strings, etc._
 - [thejameskyle/pretty-format](https://github.com/thejameskyle/pretty-format) can be used to stringify any JavaScript value.
 - [chinchang/screenlog.js](https://github.com/chinchang/screenlog.js)
   - _“Bring console.log on the screen”_
-
-
 
 ## Typography with JavaScript
 
@@ -118,20 +101,14 @@ Good way to learn is to watch & read presentations.
   - _“Typography is a complex system of interrelated styles.”_
   - [Typography.js (official website)](http://kyleamathews.github.io/typography.js/) with an example theme builder widget.
 
-
-
 ## Interviewing JavaScript developers
 
 - [khan4019/front-end-Interview-Questions](https://github.com/khan4019/front-end-Interview-Questions)
 
-
-
 ## JavaScript code quality
-
 
 - [JavaScript code quality with free tools – Building Apollo – Medium](https://medium.com/apollo-stack/javascript-code-quality-with-free-tools-9a6d80e29f2d)
   - Advice on setting up Static type checking, Linting, Continuous integration testing on multiple platforms, and Code coverage analysis.
-
 
 ### Flow static typing
 

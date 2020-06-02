@@ -1,16 +1,13 @@
 # CSS
 
-
 - [What is CSS? — HTML & CSS - W3C](https://www.w3.org/standards/webdesign/htmlcss#whatcss)
 - [Cascading Style Sheets](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) (Wikipedia article)
-
 
 ## GitHub repositories
 
 - [CSS related projects from W3C in GitHub](https://github.com/w3c?utf8=%E2%9C%93&query=css)
 - [World Wide Web Consortium (W3C) in GitHub](https://github.com/w3c)
 - [Trending CSS repositories on GitHub today](https://github.com/trending?l=css)
-
 
 ## CSS tips
 
@@ -28,7 +25,6 @@
 - [Alligator.io](https://alligator.io/)
   - _“Front End Web Technologies, Chewed Up”_
 
-
 ## Presentations
 
 Good way to learn is to watch & read presentations.
@@ -39,12 +35,10 @@ Good way to learn is to watch & read presentations.
 - [@mdo-ular CSS](https://speakerdeck.com/mdo/at-mdo-ular-css) by Mark Otto
   - _“Ten guidelines for how and why I write CSS the way I do with practical examples.”_
 
-
 ## Guidelines
 
 - [CSS Guidelines](http://cssguidelin.es/)
   - _High-level advice and guidelines for writing sane, manageable, scalable CSS_
-
 
 ## Naming conventions
 
@@ -75,7 +69,6 @@ Good way to learn is to watch & read presentations.
   - [inuitcss](https://github.com/inuitcss)
     - “A collection of pre-alpha modules to form the new, improved inuitcss”
 
-
 ### CSS namespaces
 
 - [css-modules](https://github.com/css-modules/css-modules)
@@ -89,7 +82,6 @@ Good way to learn is to watch & read presentations.
 - [lollipop.css - Android lollipop animations in CSS](http://kushagragour.in/lab/lollipop.css/)
 - [Font Awesome](http://fontawesome.io/)
   - _“the iconic font and CSS toolkit”_
-
 
 ## CSS frameworks
 
