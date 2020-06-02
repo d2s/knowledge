@@ -82,7 +82,8 @@
 
 ## Functional Components
 
--[Learn to spot red flags in your React/JavaScript code](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4) -[Some Thoughts on Function Components in React – JavaScript Inside – Medium](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7)
+- [Learn to spot red flags in your React/JavaScript code](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4). Blog post.
+- [Some Thoughts on Function Components in React](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7). Blog post. JavaScript Inside (blog). Medium.
 
 - _“Functions First Approach”_
 
